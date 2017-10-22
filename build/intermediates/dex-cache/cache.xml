@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\delta\Downloads\abbyy-rtr-sdk-1.0.8.21.Android\sample-datacapture\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\delta\Downloads\abbyy-rtr-sdk-1.0.8.21.Android\sample-datacapture\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ea4f94a3daad45eb1ccdaf545456ca0c04196f62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\delta\Downloads\abbyy-rtr-sdk-1.0.8.21.Android\sample-datacapture\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7e13df9dd9296f7719ffdc63647b78c1089bd68">
+        <dex dex="C:\Users\delta\Downloads\abbyy-rtr-sdk-1.0.8.21.Android\sample-datacapture\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6947dd78ab15925fd64ef5d652e799c5c70812a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\delta\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\delta\Downloads\abbyy-rtr-sdk-1.0.8.21.Android\sample-datacapture\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_b90675a419aa6a8af5765b3eef238a123df1828a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\delta\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.0\1b6c10b5120995a7542c1a31b7828fb8593c8ba\okhttp-3.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="C:\Users\delta\Downloads\abbyy-rtr-sdk-1.0.8.21.Android\sample-datacapture\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.9.0_8836fa09a276e9c5e30d06bda9f67ff67abbf59e\classes.dex" />
+    </item>
+
+</items>
